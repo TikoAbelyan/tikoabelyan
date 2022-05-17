@@ -1,16 +1,12 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikoabelyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 
-<!--
-**TikoAbelyan/tikoabelyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/tiko-abelyan-4974b9142/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" height="30px">
+  </a>
+</div>

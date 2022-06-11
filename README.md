@@ -6,7 +6,7 @@
 </br>
 
 <div>
-  <a href="https://www.linkedin.com/in/tiko-abelyan-4974b9142/" target="_blank">
+  <a href="https://www.linkedin.com/in/tiko-abelyan-4974b9142" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" height="30px">
   </a>
 </div>

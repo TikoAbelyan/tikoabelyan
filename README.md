@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/screen.png" alt="Hello! I'm Tigran" width="400" /></p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>

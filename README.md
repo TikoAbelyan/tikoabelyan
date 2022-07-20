@@ -2,11 +2,12 @@
   <img width="50%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
 </h1>
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+my+name's+Tigran.;I+am+react-developer.;&center=true&width=500&height=50"></a>
 </p>
 
-
+<p align=left> <img src=https://komarev.com/ghpvc/?username=tikoabelyan alt=tikoabelyan /> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </br>

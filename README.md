@@ -9,7 +9,7 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tikoabelyan alt=tikoabelyan /> </p>
 
-[![Tigrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
 </br>
@@ -25,7 +25,7 @@
 </p>
 <br>
 
-[![Tigran's Activity Graph](https://activity-graph.herokuapp.com/graph?username=tikoabelyan&custom_title=Tigran's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
+[![Anurag's Activity Graph](https://activity-graph.herokuapp.com/graph?username=tikoabelyan&custom_title=Tigran's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
 <p align="center"><img src="https://profile-counter.glitch.me/{tikoabelyan}/count.svg"></p>
 
 <div>

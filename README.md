@@ -9,7 +9,7 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tikoabelyan alt=tikoabelyan /> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Tigrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
 </br>

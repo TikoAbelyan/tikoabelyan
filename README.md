@@ -9,11 +9,11 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tikoabelyan alt=tikoabelyan /> </p>
 
-[![tikoabelyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![tikoabelyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikoabelyan&count_private=true&show_icons=true&theme=tokyonight)]
 </br>
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikoabelyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikoabelyan&layout=compact)]
 </br>
 
 <br/>
@@ -29,8 +29,6 @@
 
 <a href="https://github.com/tikoabelyan/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tikoabelyan&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="100%" alt="JuletopiContribution-graph"></a>
 
-[![Anurag's Activity Graph](https://activity-graph.herokuapp.com/graph?username=tikoabelyan&custom_title=Tigran's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
-<p align="center"><img src="https://profile-counter.glitch.me/{tikoabelyan}/count.svg"></p>
 </div>
 <div>
   <a href="https://www.linkedin.com/in/tiko-abelyan-4974b9142" target="_blank">
